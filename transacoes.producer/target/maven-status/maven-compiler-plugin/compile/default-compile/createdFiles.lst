@@ -1,0 +1,4 @@
+br\edu\utfpr\td\cotsi\transacoes\producer\service\LeitorArquivo.class
+br\edu\utfpr\td\cotsi\transacoes\producer\model\Transacao.class
+br\edu\utfpr\td\cotsi\transacoes\producer\TransacoesProducerApplication.class
+br\edu\utfpr\td\cotsi\transacoes\producer\config\RabbitMQConfig.class

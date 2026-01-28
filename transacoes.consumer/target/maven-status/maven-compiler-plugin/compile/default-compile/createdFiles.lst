@@ -1,0 +1,8 @@
+br\edu\utfpr\td\cotsi\transacoes\consumer\model\Transacao.class
+br\edu\utfpr\td\cotsi\transacoes\consumer\config\RabbitMQConfig.class
+br\edu\utfpr\td\cotsi\transacoes\consumer\TransacoesConsumerApplication.class
+br\edu\utfpr\td\cotsi\transacoes\consumer\TransacoesReceitaApplication.class
+br\edu\utfpr\td\cotsi\transacoes\consumer\service\PoliciaConsumer.class
+br\edu\utfpr\td\cotsi\transacoes\consumer\service\ReceitaConsumer.class
+br\edu\utfpr\td\cotsi\transacoes\consumer\TransacoesPoliciaApplication.class
+br\edu\utfpr\td\cotsi\transacoes\consumer\service\TransacaoConsumer.class
